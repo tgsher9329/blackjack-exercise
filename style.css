@@ -32,7 +32,8 @@ History
 
 body {
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-box-sizing: border-box;}
+box-sizing: border-box;
+background-color: chartreuse;}
 
 body * {
 box-sizing: inherit;
@@ -56,7 +57,7 @@ width: 900px;
 max-width: calc(100% - 20px);
 border: 8px solid rgb(10, 43, 2);
 border-radius: 20px;
-background: rgb(77, 8, 8);
+background: rgb(189, 228, 230);
 margin: 0 auto;
 color: white;
 padding: 30px;
